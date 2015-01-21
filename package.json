@@ -1,0 +1,28 @@
+{
+  "name": "couchbase-simple-example",
+  "version": "1.0.0",
+  "description": "couchbase-simple-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabhi/couchbase-simple-example.git"
+  },
+  "keywords": [
+    "couchbase",
+    "node",
+    "js",
+    "example"
+  ],
+  "author": "Abhijit Gaikwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabhi/couchbase-simple-example/issues"
+  },
+  "homepage": "https://github.com/gabhi/couchbase-simple-example",
+  "dependencies": {
+    "couchbase": "^2.0.4"
+  }
+}
